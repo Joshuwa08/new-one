@@ -12,6 +12,7 @@ public class DAY1 {
 		System.out.println("day 9");
 		System.out.println("day 8");
 		System.out.println("day 7");
+		System.out.println("day 10");
 		System.out.println("end");
 		
 	}
