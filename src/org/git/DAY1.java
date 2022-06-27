@@ -8,6 +8,7 @@ public class DAY1 {
 		System.out.println("day 3");
 		System.out.println("day 4");
 		System.out.println("day 5");
+		System.out.println("day 6");
 		System.out.println("end");
 		
 	}
